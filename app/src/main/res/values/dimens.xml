@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="currency_image_dimen">40dp</dimen>
+    <dimen name="currency_name_margin_dimen">16dp</dimen>
+    <dimen name="currency_prefix_text_size">16sp</dimen>
+    <dimen name="currency_name_text_size">14sp</dimen>
+    <dimen name="currency_amount_text_size">20sp</dimen>
+    <dimen name="currency_item_padding">16dp</dimen>
+</resources>
